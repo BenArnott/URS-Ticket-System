@@ -13,6 +13,14 @@ The website will be created using HTML, CSS, and JavaScript, with a focus on cre
 
 One of the many advantages of this platform is that it streamlines communication because all requests are made in one location, removing the need for follow-up emails or meetings. By guaranteeing that new requests are sent to the team in a timely formatted way, it will help increase efficiency. Additionally, the system's scalability allows for the gradual addition of new features to improve functionality, like request tracking and metric analytics. The user interface will be designed, a prototype with email notification and ticket submission features will be made, the system will be tested for dependability, and user feedback will be incorporated to improve the platform. This website will offer a useful and expandable way to assist the workflow of the Robotics and Automation Team through managing user requirements.
 
+## Project Planning
+
+The Agile technique, which prioritises iterative development and collaboration, is used to plan and carry out this project. The project starts by outlining its overall objective, which is to provide a user-friendly ticket submission system for the User Requirement Specifications (URS). The product backlog, which will be organised into epics like "UI Design," "Form Functionality," and "Data Storage," contain the requirements and are divided into smaller, more manageable tasks. The project will be broken up into three two-week-long sprints, each with their own set of deliverables. Daily standups will be used to track progress and resolve any obstacles, and regular sprint planning sessions can be utilised to prioritise work. A review will be conducted at the conclusion of each sprint to review the results and take comments into consideration. 
+
+In order to improve the process for the sprints, retrospectives will also be carried out. To maintain team transparency and visualise the workflow, we can make use of a Kanban board for this. Throughout the development cycle, testing and debugging are given top priority in order to preserve the quality of the final products. This strategy makes sure that the project will be completed in a flexible and progressive manner while successfully fulfilling the requirements.
+
+
+![Screenshot](ProjectPlanningTable.png)
 
 ## User Feedback
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScb-IveZ_1XHtToDfNOmGVE4wiZP1UCcFefLmZl2Nn3_CLj_g/viewform?usp=header) Please fill in the feedback form after reviewing the URS website.
