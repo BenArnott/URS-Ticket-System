@@ -78,3 +78,32 @@ Run the project using: npm start
 Testing Code Explanation
 - The form submission event is handled in `index.js`, where data from the input fields is retrieved and displayed in the `output-field`.
 
+
+## Evaluation
+The creation of the URS Ticketing System has given important insights into the benefits and issues of creating a user-friendly ticket management system. Although there were a few challenges to overcome and numerous chances for future improvements/scalability, the system effectively creates a prototype design for users to submit requests via a form.
+
+Challenges I discovered
+
+Placing the input boxes inside the allotted space (rectangle6) was one of my main issues faced during the development process. At first, there was overlap with the surrounding text due to the form elements' misalignment. This was fixed by trial and error within Inspect Elements, allowing me to modify the top, and left properties in the CSS to guarantee correct positioning. Although this problem was eventually fixed, it took longer than expected and demonstrated the importance of thorough layout planning and testing when working with forms in web design. 
+
+Current Features
+
+At the moment, the system demonstrates a straightforward, practical form design for users to enter personal information with a showcase of how they would input string information like their name. Simplifying communication with the Robotics and Automation Team requires this fundamental feature as the company scales up, increasing project demands.
+The system can be improved in a number of areas to allow for a better user experience which will be discussed below.
+
+Potential Upgrades and Scalability
+
+- More Input Fields: The form could be improved by including more specialised input fields as the system is scaled up to meet more complicated user requests. A dropdown menu to classify requests using labels (such as "Technical Support," "Software Issue," or "Equipment Request"), for instance, could aid the organisation in setting priorities. This would be enhanced through the user feedback google form distributed in the README section.
+
+- Improved Email Notification System: The team receives a single email upon submissions from the current email notification system. This could be extended in a number of ways, such as giving users email confirmations once their request has been fulfilled or incorporating automated follow-up reminders when deadlines get close. In order to increase workflow efficiency, the system may also notify various teams based on the type of request, this would be streamlined by the label suggestion above.
+
+- Integration with Dashboards: For real-time analytics, the system may be integrated with external metric dashboards as it gathers more data. This would make it possible to measure important metrics like priority status, completion times, and ticket submission rates. Using programs like Tableau to visualise this data would improve work management and offer useful insights about team performance. This is especially important for small teams as having metrics to show performance and demand could aid in gaining further investment or headcount from management.
+
+- Database Integration: Although the system is currently designed to only use email alerts, adding a database would improve request tracking and storing. More advanced reporting of historical data through data storage, and search capabilities might be made possible with a back-end database such as MongoDB or MySQL. Over time, this would facilitate ticket management and guarantee that no request is forgotten or lost.
+
+- User Authentication: To guarantee that authorised employees are able to submit requests, the system could include user authentication in future versions. This would be essential considering the nature of the work done within the labs, as more projects come in the chances of the requirements being confidential will increase.
+
+## Conclusion
+
+Overall the URS Ticketing System prototype provides foundation for simplifying the gathering and administration of user requirements. The system design has been successfully deployed, providing the Robotics and Automation Team with a simple yet useful solution example. Going forward, there is a lot of room for changes in the system, including more input fields, improved email alerts, and integration with databases. Through the application of data analytics, these modifications would not only improve the system's functionality but also offer greater insight into our companies workflow. With these future changes, the system can grow to meet future demands and offer a complete platform for effectively handling project requests.
+
