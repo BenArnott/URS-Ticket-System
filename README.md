@@ -35,3 +35,25 @@ Page 1 - The home page for the application allowing users to create tickets.
 Page 2 - The ticket manager, allowing users to edit, delete or share their tickets.
 
 ![Screenshot](URS%20App%202.png)
+
+## Creating the Prototype Process
+
+- Designing the Prototype in Figma
+I started by making use of Figma to create the URS ticketing system's user interface, focussing on a simple and user friendly prototype. The design includes items like the general layout, navigation buttons, and the ticket submission form. To guarantee responsiveness and consistency, I selected particular fonts, colours, and element locations.
+
+- Generating CSS Code
+I then converted the design elements into CSS code using a built-in Figma plugin after the design was complete. The style settings, including sizes, colours, and placements, for every component in the design were automatically produced by this plugin from the source design. The exported CSS code was used as the base for the front-end development of the website.
+
+- Uploading the CSS Code
+An index.css file was then created, including the created CSS source code. With all the styles required to duplicate the Figma look, this file acts as the website's stylesheet. I arranged and went over the code to make sure it was accurate and clear. 
+
+- Linking the CSS to HTML
+I used HTML to organise the material in the index.html file and added a <link> element in the <head> section to link it to the index.css file. I then made sure that the visual styles defined in the CSS file were applied to the content by assigning the appropriate CSS classes to every HTML element.
+
+For example:
+
+The navigation buttons ("Create a Ticket" and "View Tickets") were styled using the .rectangle3 and .rectangle4 classes.
+Form fields, such as "Full Name" and "User PRID," were styled using classes such as .rectangle6 and .rectangle7 to form mock input boxes.
+
+- Publishing the Prototype
+I published the project using the terminal to make the prototype publicly available. This required the use of  GitHub Websites, allowing me to link the VS Code to the repositry via a hyperlink. I was able to then review and test the functional prototype in a web browser thanks to the procedure' creation of a shared web link. Through this I discovered multiple placement issues with the text while testing. Utilising the inspect element I was able to alter the sizing and layer placement of the text, fixing the issues through VS Code.
