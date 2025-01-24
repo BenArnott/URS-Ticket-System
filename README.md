@@ -57,3 +57,24 @@ Form fields, such as "Full Name" and "User PRID," were styled using classes such
 
 - Publishing the Prototype:
 I published the project using the terminal to make the prototype publicly available. This required the use of  GitHub Websites, allowing me to link the VS Code to the repositry via a hyperlink. I was able to then review and test the functional prototype in a web browser thanks to the procedure' creation of a shared web link. Through this I discovered multiple placement issues with the text while testing. Utilising the inspect element I was able to alter the sizing and layer placement of the text, fixing the issues through VS Code.
+
+## Technical Guide for URS Ticketing System
+
+Technology Stack
+The URS Ticketing System is built with the following structure:
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend (can allow future expansion)**: Node.js (testing/future email usage)
+
+Folder Structure
+- `index.html`: Contains the structure of the webpage.
+- `index.css`: Provides styling for the webpage.
+- `index.js`: Handles form submissions and input validation.
+
+Setting Up the Project Locally
+Clone the repository: https://github.com/BenArnott/URS-Ticket-System.git
+Install the dependencies: npm install
+Run the project using: npm start
+
+Testing Code Explanation
+- The form submission event is handled in `index.js`, where data from the input fields is retrieved and displayed in the `output-field`.
+
