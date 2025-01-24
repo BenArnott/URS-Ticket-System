@@ -84,7 +84,7 @@ text-align:left;
 vertical-align:text-top;
 font-size:32px;
 font-family:Inter;
-left:378px;
+left:47px;
 top:44px;
 width:248px;
 height:82px;
@@ -169,6 +169,8 @@ position:absolute;
 line-height:auto;
 border-style:hidden;
 outline:none;
+z-index: 2;
+
 }
 
 .userprid
@@ -186,6 +188,8 @@ position:absolute;
 line-height:auto;
 border-style:hidden;
 outline:none;
+z-index: 2;
+
 }
 
 .contactdetails
@@ -203,6 +207,8 @@ position:absolute;
 line-height:auto;
 border-style:hidden;
 outline:none;
+z-index: 2;
+
 }
 
 .taskdescription
@@ -220,6 +226,8 @@ position:absolute;
 line-height:auto;
 border-style:hidden;
 outline:none;
+z-index: 2;
+
 }
 
 .requiredcompletiondate
@@ -237,4 +245,6 @@ position:absolute;
 line-height:auto;
 border-style:hidden;
 outline:none;
+z-index: 2;
+
 }
