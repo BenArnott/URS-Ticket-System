@@ -2,4 +2,4 @@
 
 ## Design
 
-![screenshot](URS App 1.png)
+![Screenshot](URS App 1.png)
