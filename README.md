@@ -21,6 +21,8 @@ In order to improve the process for the sprints, retrospectives will also be car
 
 ![Screenshot](ProjectPlanningTable.png)
 
+![Screenshot](AgilePracticesTable.png)
+
 ## User Feedback
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScb-IveZ_1XHtToDfNOmGVE4wiZP1UCcFefLmZl2Nn3_CLj_g/viewform?usp=header) Please fill in the feedback form after reviewing the URS website.
 
