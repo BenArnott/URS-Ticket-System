@@ -1,0 +1,22 @@
+{
+  "name": "urs-ticket-system",
+  "version": "1.0.0",
+  "description": "The initial prototype design can be found on this [Link](https://benarnott.github.io/URS-Ticket-System/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenArnott/URS-Ticket-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenArnott/URS-Ticket-System/issues"
+  },
+  "homepage": "https://github.com/BenArnott/URS-Ticket-System#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
