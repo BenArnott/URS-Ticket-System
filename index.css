@@ -94,14 +94,42 @@ border-style:hidden;
 outline:none;
 }
 
-.rectangle6
-{
-background-color:#d9d9d9;
-height:31px;
-width:620px;
-top:214px;
-left:30px;
-position:absolute;
+.rectangle6 {
+    background-color: #d9d9d9;
+    height: 31px;
+    width: 620px;
+    top: 214px;
+    left: 30px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    justify-content: flex-start;
+}
+
+.rectangle6 form {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-left: 120px;
+}
+
+.rectangle6 input[type="text"] {
+    flex: 1;
+    padding: 5px;
+}
+
+.rectangle6 input[type="submit"] {
+    padding: 5px 10px;
+    background-color: #aa1e45;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.rectangle6 input[type="submit"]:hover {
+    background-color: #991a3e;
 }
 
 .rectangle7
