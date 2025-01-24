@@ -19,7 +19,7 @@ The Agile technique, which prioritises iterative development and collaboration, 
 
 In order to improve the process for the sprints, retrospectives will also be carried out. To maintain team transparency and visualise the workflow, we can make use of a Kanban board for this. Throughout the development cycle, testing and debugging are given top priority in order to preserve the quality of the final products. This strategy makes sure that the project will be completed in a flexible and progressive manner while successfully fulfilling the requirements.
 
-
+![Screenshot](ProjectPlanningTable.png)
 
 ## User Feedback
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScb-IveZ_1XHtToDfNOmGVE4wiZP1UCcFefLmZl2Nn3_CLj_g/viewform?usp=header) Please fill in the feedback form after reviewing the URS website.
