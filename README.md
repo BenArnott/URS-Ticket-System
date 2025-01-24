@@ -107,3 +107,7 @@ Potential Upgrades and Scalability
 
 Overall the URS Ticketing System prototype provides foundation for simplifying the gathering and administration of user requirements. The system design has been successfully deployed, providing the Robotics and Automation Team with a simple yet useful solution example. Going forward, there is a lot of room for changes in the system, including more input fields, improved email alerts, and integration with databases. Through the application of data analytics, these modifications would not only improve the system's functionality but also offer greater insight into our companies workflow. With these future changes, the system can grow to meet future demands and offer a complete platform for effectively handling project requests.
 
+## References
+
+What is a support ticketing system? (2022) Salesforce. Available at: https://www.salesforce.com/uk/service/support-ticketing-tools-systems/ (Accessed: 24 January 2025). 
+‌
